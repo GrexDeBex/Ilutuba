@@ -1,2 +1,2 @@
-Tegemist on conflict.md failiga, aga võib olla ei ole
+Tegemist on conflict.md failiga, aga võib olla on
 Loojad on Gregor ja Gregor
